@@ -16,7 +16,7 @@ The work is divided into two parts:
 
 ![90th Percentile Distribution](90th_percentile_dist.png)
 
-3. 0.15 is the proportion of days that have defects greater or equal to the 90th percentile. This is slightly higher than the expected 10% due to the Poisson distribution's randomness and the dataset's finite size (365 days).
+3. 0.20 is the proportion of days that have defects greater or equal to the 90th percentile. This is slightly higher than the expected 10% due to the Poisson distribution's randomness and the dataset's finite size (365 days).
 
 ![90th Proportion Distrribution](90th_proportion_dist.png)
 
